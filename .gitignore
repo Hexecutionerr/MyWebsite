@@ -1,0 +1,39 @@
+# ---------------------------
+# Python virtual environment
+# ---------------------------
+myenv/
+venv/
+env/
+
+# ---------------------------
+# Python cache files
+# ---------------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# ---------------------------
+# Django database
+# ---------------------------
+db.sqlite3
+
+# ---------------------------
+# Media uploads (user uploads)
+# ---------------------------
+media/
+
+# ---------------------------
+# IDE/Editor specific files
+# ---------------------------
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# ---------------------------
+# OS generated files
+# ---------------------------
+.DS_Store
+Thumbs.db
